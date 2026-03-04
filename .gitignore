@@ -1,0 +1,20 @@
+node_modules
+dist
+.DS_Store
+vite.config.ts.* # cspell:ignore vite
+*.tar.gz
+.env
+
+# Large files
+*.exe
+*.nupkg
+*.msi
+AppData/
+.nuget/
+.vscode/extensions/
+.cache/
+.dotnet/
+.local/
+.railway/
+.vercel
+.env*.local
